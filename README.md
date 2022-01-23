@@ -1,5 +1,4 @@
 # Form Validation using React Js 
-### E-Commerce
 <span style="color:blue">Here, I am validate the form into 4 ways</span>
 1-Using Formik and Yup
 2-Using Formik hook and Yup
@@ -20,4 +19,4 @@
                                                                                                          <b>Harshit Shakya</b>
                                                                                                          
 
-<img src="project images/img.png">
+<img src="images/img.png">
